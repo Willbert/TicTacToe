@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-175ae": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoe-175ae"
+        ]
+      }
+    }
+  }
+}
